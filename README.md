@@ -1,4 +1,4 @@
-SmartSTP Forex Broker Review: A Comprehensive Analysis
+SmartSTP Review: A Comprehensive Analysis
 ======================================================
 
 Introduction
