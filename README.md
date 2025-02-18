@@ -7,6 +7,7 @@ Introduction
 Choosing the right forex broker is crucial for traders aiming to maximize profitability while ensuring security and transparency. SmartSTP is one of the emerging brokers in the forex industry, known for its \*\*Straight Through Processing (STP) execution model\*\*, competitive trading conditions, and trader-friendly features. This review provides an in-depth analysis of SmartSTP, covering \*\*regulation, trading platforms, account types, customer support, security, and more\*\*, to help you determine whether this broker is the right fit for your trading needs.
 
 \---
+![image](https://github.com/Broker-review/SmartSTP-review/blob/db56e1a23be17c841073f782782457ad087dd475/smartstp%20home%20screen.png)
 
 Overview of SmartSTP
 --------------------
