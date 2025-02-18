@@ -6,6 +6,22 @@ Introduction
 
 Choosing the right forex broker is crucial for traders aiming to maximize profitability while ensuring security and transparency. SmartSTP is one of the emerging brokers in the forex industry, known for its Straight Through Processing (STP) execution model, competitive trading conditions, and trader-friendly features. This review provides an in-depth analysis of SmartSTP, covering regulation, trading platforms, account types, customer support, security, and more, to help you determine whether this broker is the right fit for your trading needs.
 
+| **Asset** | **details** | 
+|-------------| -------------- | 
+| Trading platform | Metatrader 5 | 
+| Accounts | Demo, Silver, Gold, Platinum | 
+| Account currency | EUR | 
+| Withdrawal | Bank transfers, Visa, Mastercard, Maestro, Neteller, Skrill, iDEAL, Klarna, Multibanko  | 
+| Minimum deposit | 250 EUR | 
+| Leverage | Up to 1:30 | 
+| PAMM accounts | No | 
+| Min order | 0,01 |
+| EUR/USD spread | 2.5 -2.9   | 
+| Instruments | CFD on Forex, stocks, indeces, metals, energies, commodities, cryptocurrencies and ETFs | 
+| Margin call/ Stop out | No information | 
+| Liquidity power | No information | 
+| Mobile trading | Yes |
+
 ![image](https://github.com/Broker-review/SmartSTP-review/blob/db56e1a23be17c841073f782782457ad087dd475/smartstp%20home%20screen.png)
 
 Overview of SmartSTP
