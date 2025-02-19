@@ -8,12 +8,12 @@ Choosing the right forex broker is crucial for traders aiming to maximize profit
 
 | **Asset** | **details** | 
 |-------------| -------------- | 
-| Trading platform | Metatrader 5 | 
+| Trading platform | WebTrader | 
 | Accounts | Demo, Silver, Gold, Platinum | 
-| Account currency | EUR | 
+| Account currency | USD | 
 | Withdrawal | Bank transfers, Visa, Mastercard, Maestro, Neteller, Skrill, iDEAL, Klarna, Multibanko  | 
-| Minimum deposit | 250 EUR | 
-| Leverage | Up to 1:30 | 
+| Minimum deposit | 250 USD | 
+| Leverage | Up to 1:200 | 
 | PAMM accounts | No | 
 | Min order | 0,01 |
 | EUR/USD spread | 2.5 -2.9   | 
